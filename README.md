@@ -91,14 +91,12 @@ An end-to-end ML project to classify political news in Indonesian as fact or hoa
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/MuthiahAinun/github-readme-streak-stats">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MuthiahAinun's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MuthiahAinun&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
 </a>
 
-![MuthiahAinun's Streak](https://streak-stats.demolab.com?user=MuthiahAinun&theme=monokai-metallian&hide_border=true&border_radius=4.5)
-
-![MuthiahAinun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![MuthiahAinun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuthiahAinun&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuthiahAinun&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
 
