@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Tsamarah Muthi'ah A. (@MuthiahAinun)
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6" onmouseover="this.stop();" onmouseout="this.start();">
+    ✨ Selamat datang di profil GitHub saya — Muthi'ah A. ✨
+  </marquee>
+</div>
+
+# 👋 Hi, I'm Muthi'ah A. (@MuthiahAinun)
 
 🎓 AI Enthusiast | 🔍 Aspiring Data Analyst | ☁️ Cloud Learner  
 📊 I'm passionate about turning **data into decisions** and exploring intelligent systems to make the world better.
@@ -36,7 +42,7 @@ An end-to-end ML project to classify political news in Indonesian as fact or hoa
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsamarah-abdullah-24a25a236/)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tsamarah.ainun@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tsamarahmuthiahabdullah@gmail.com)
 
 ---
 
