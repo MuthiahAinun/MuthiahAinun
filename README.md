@@ -91,7 +91,7 @@ An end-to-end ML project to classify political news in Indonesian as fact or hoa
 
 ## 📈 GitHub Stats
 
-![MuthiahAinun's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuthiahAinun)
+![MuthiahAinun's Streak](https://streak-stats.demolab.com?user=MuthiahAinun&theme=monokai-metallian&hide_border=true&border_radius=4.5)
 
 ![MuthiahAinun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuthiahAinun&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
