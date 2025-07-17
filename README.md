@@ -1,8 +1,13 @@
-<div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    ✨ Welcome to my GitHub profile — Muthi'ah A. ✨
-  </marquee>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuthiahAinun/MuthiahAinun/main/Muthiah.jpg" alt="Tsamarah Muthi'ah A." width="200" style="border-radius: 10px;" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Enthusiast%20and%20Data%20Analyst;Open%20Source%20Contributor;Lifelong%20Learner;Based%20in%20Indonesia&center=true&width=500&height=45&font=Fira%20Code&pause=1000&color=F75C7E&vCenter=true&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MuthiahAinun/MuthiahAinun/main/foto1.jpg" width="200" />
