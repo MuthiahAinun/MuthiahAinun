@@ -4,6 +4,13 @@
   </marquee>
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuthiahAinun/MuthiahAinun/main/foto1.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/MuthiahAinun/MuthiahAinun/main/foto2.jpg" width="200" />
+</p>
+
+---
+
 # 👋 Hi, I'm Muthi'ah A. (@MuthiahAinun)
 
 🎓 AI Enthusiast | 🔍 Aspiring Data Analyst | ☁️ Cloud Learner  
