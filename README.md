@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuthiahAinun/MuthiahAinun/main/Muthiah.png" alt="Tsamarah Muthi'ah A." style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/MuthiahAinun/MuthiahAinun/main/Muthiah-banner.png" alt="Tsamarah Muthi'ah A." style="border-radius: 10px;" />
 </p>
 
 <p align="center">
