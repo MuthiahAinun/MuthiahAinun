@@ -116,7 +116,7 @@ An end-to-end ML project to classify political news in Indonesian as fact or hoa
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsamarah-abdullah-24a25a236/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsamarah-muthi-ah-abdullah-24a25a236/)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tsamarahmuthiahabdullah@gmail.com)
 
 ---
